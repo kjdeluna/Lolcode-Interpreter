@@ -1,0 +1,18 @@
+/home/kbdeluna/Desktop/LolcodeInterpreter/LolcodeInterpreter/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kbdeluna/Desktop/LolcodeInterpreter/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.gtk-gui.gui.stetic
+/home/kbdeluna/Desktop/LolcodeInterpreter/LolcodeInterpreter/bin/Release/LolcodeInterpreter.exe.mdb
+/home/kbdeluna/Desktop/LolcodeInterpreter/LolcodeInterpreter/bin/Release/LolcodeInterpreter.exe
+/home/kbdeluna/Desktop/LolcodeInterpreter/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.exe
+/home/kbdeluna/Desktop/LolcodeInterpreter/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.exe.mdb
+/home/kbdeluna/Downloads/12-01-17 - 6 AM/LolcodeInterpreter/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kbdeluna/Downloads/12-01-17 - 6 AM/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.gtk-gui.gui.stetic
+/home/kbdeluna/Downloads/12-01-17 - 6 AM/LolcodeInterpreter/bin/Release/LolcodeInterpreter.exe.mdb
+/home/kbdeluna/Downloads/12-01-17 - 6 AM/LolcodeInterpreter/bin/Release/LolcodeInterpreter.exe
+/home/kbdeluna/Downloads/12-01-17 - 6 AM/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.exe
+/home/kbdeluna/Downloads/12-01-17 - 6 AM/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.exe.mdb
+/home/kbdeluna/Downloads/12-03-17/LolcodeInterpreter/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kbdeluna/Downloads/12-03-17/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.gtk-gui.gui.stetic
+/home/kbdeluna/Downloads/12-03-17/LolcodeInterpreter/bin/Release/LolcodeInterpreter.exe.mdb
+/home/kbdeluna/Downloads/12-03-17/LolcodeInterpreter/bin/Release/LolcodeInterpreter.exe
+/home/kbdeluna/Downloads/12-03-17/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.exe
+/home/kbdeluna/Downloads/12-03-17/LolcodeInterpreter/obj/x86/Release/LolcodeInterpreter.exe.mdb

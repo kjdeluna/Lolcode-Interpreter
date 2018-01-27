@@ -1,0 +1,6 @@
+/home/aldyngot/Projects/TEST/CMSC124-Lolcode-Interpreter/LolcodeInterpreter/bin/Debug/LolcodeInterpreter.exe
+/home/aldyngot/Projects/TEST/CMSC124-Lolcode-Interpreter/LolcodeInterpreter/bin/Debug/LolcodeInterpreter.pdb
+/home/aldyngot/Projects/TEST/CMSC124-Lolcode-Interpreter/LolcodeInterpreter/obj/x86/Debug/LolcodeInterpreter.csprojResolveAssemblyReference.cache
+/home/aldyngot/Projects/TEST/CMSC124-Lolcode-Interpreter/LolcodeInterpreter/obj/x86/Debug/LolcodeInterpreter.csproj.CoreCompileInputs.cache
+/home/aldyngot/Projects/TEST/CMSC124-Lolcode-Interpreter/LolcodeInterpreter/obj/x86/Debug/LolcodeInterpreter.exe
+/home/aldyngot/Projects/TEST/CMSC124-Lolcode-Interpreter/LolcodeInterpreter/obj/x86/Debug/LolcodeInterpreter.pdb
